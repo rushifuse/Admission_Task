@@ -1,7 +1,7 @@
 
 class InvalidPasswordException extends RuntimeException
 {
-    private String msg = "Invalid Age !!!";
+    private String msg = "Invalid Password !!!";
     public InvalidPasswordException ()
     {
         // default constructor
